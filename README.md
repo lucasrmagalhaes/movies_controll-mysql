@@ -1,6 +1,16 @@
-### MySQL - Como modelar um banco de controle de séries assistidas
+<h1 align="center">Movies Controll</h1>
+
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/movies_controll-mysql/blob/main/frontend/public/movies-controll.gif">
+    <img 
+         src="https://github.com/lucasrmagalhaes/movies_controll-mysql/blob/main/frontend/public/movies-controll.gif" 
+         alt="Movies Controll" 
+    />
+  </a>
+</p>
 
 [Back-end](http://localhost:5000/ "Back-end")
+<br />
 [Front-end](http://localhost:3000/ "Front-end")
 
 ```
